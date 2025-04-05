@@ -12,12 +12,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Professional;Software+Engineer;IoT+and+Embedded+Systems+Enthusiast;Data+Visualization+Specialist" alt="Typing SVG" />
 </div>
 
-
 ## 💫 About Me
 
 I'm a Computer Science professional with both Bachelor's and Master's degrees, specializing in software development and embedded systems. My research focuses on improving resolution of Synthetic Aperture Sonar images using innovative computational methods. I thrive in collaborative environments, excel at problem-solving, and adapt quickly to new technologies.
 
-![Running Python Code GIF](https://github.com/ChitraSiddharthan/ChitraSiddharthan/blob/09dc123c1dd4fa1dea8dbd8691f8e05c124800de/uploads.py)
+```python
+class ChitraSiddharthan:
+    def __init__(self):
+        self.name = "Chitra Siddharthan"
+        self.education = ["MSc in Computer Science", "BE in Computer Science and Engineering"]
+        self.interests = ["Software Engineering", "Embedded Systems", "IoT", "Data Visualization"]
+        self.currently_learning = ["Advanced ML", "Cloud Infrastructure", "Advanced Data Viz"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = ChitraSiddharthan()
+me.say_hi()
+```
 
 ## 🎓 Education
 
