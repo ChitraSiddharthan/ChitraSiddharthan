@@ -9,14 +9,27 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&width=435&lines=Thanks+for+dropping+by!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Professional;Software+Engineer;IoT+and+Embedded+Systems+Enthusiast;Data+Visualization+Specialist" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
 
-I'm a Computer Science professional with both Bachelor's and Master's degrees, specializing in software development and embedded systems. My research focuses on improving the resolution of Synthetic Aperture Sonar images using innovative computational methods. I thrive in collaborative environments, excel at problem-solving, and adapt quickly to new technologies.
+I'm a Computer Science professional with both Bachelor's and Master's degrees, specializing in software development and embedded systems. My research focuses on improving resolution of Synthetic Aperture Sonar images using innovative computational methods. I thrive in collaborative environments, excel at problem-solving, and adapt quickly to new technologies.
 
----
+```python
+class ChitraSiddharthan:
+    def __init__(self):
+        self.name = "Chitra Siddharthan"
+        self.education = ["MSc in Computer Science", "BE in Computer Science and Engineering"]
+        self.interests = ["Software Engineering", "Embedded Systems", "IoT", "Data Visualization"]
+        self.currently_learning = ["Advanced ML", "Cloud Infrastructure", "Advanced Data Viz"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = ChitraSiddharthan()
+me.say_hi()
+```
 
 ## 🎓 Education
 
@@ -28,8 +41,6 @@ I'm a Computer Science professional with both Bachelor's and Master's degrees, s
 | **BE in Computer Science and Engineering** | SDM College of Engineering and Technology | Sep 2016 – May 2020 | CGPA: 7.59 |
 
 </div>
-
----
 
 ## 🚀 Research & Specialization
 
@@ -44,8 +55,6 @@ My research addresses the challenge of enhancing underwater sonar imagery withou
 - Created solutions that work in highly dynamic underwater environments
 - Enhanced image sharpness for better underwater target identification
 
----
-
 ## 💻 Technical Skills
 
 <div align="center">
@@ -56,46 +65,52 @@ My research addresses the challenge of enhancing underwater sonar imagery withou
 | **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB_Design-00979D?style=flat-square&logo=altium-designer&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-010101?style=flat-square&logo=iot&logoColor=white) |
 | **Data Viz** | ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
 | **Dev Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Frameworks** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 </div>
-
----
 
 ## 🛠️ Featured Projects
 
 <details>
 <summary><b>☁️ Cloud-based Blood Bank Management System</b></summary>
 <br>
+A comprehensive platform leveraging distributed client-server architecture to revolutionize blood bank operations:
+
 - **Technologies:** Cloud Computing, Browser-based Interface, Database Management
-- **Features:** Donor records management, blood group inventory tracking
+- **Features:** Donor records management, blood group inventory tracking, administrative data processing
+- **Impact:** Enhanced transparency, simplified donation process, reduced corruption, improved efficiency
 - **Role:** Led full-stack development and database design
 </details>
 
 <details>
 <summary><b>🤖 Two-Wheel Balancing Bot</b></summary>
 <br>
+An innovative self-balancing robot project during my internship at Sandbox Startup:
+
 - **Technologies:** IoT, Embedded C, Arduino, ESP microcontrollers, PCB Design
-- **Challenges:** Solving the inverted pendulum problem
+- **Challenges:** Solving the inverted pendulum problem through sensor integration
 - **Implementation:** Developed distance sensor algorithms for real-time balance control
+- **Features:** Sensor-to-cloud connectivity for remote monitoring, custom PCB design
 </details>
 
 <details>
 <summary><b>🚗 Vehicle Number Plate Recognition System</b></summary>
 <br>
-- **Technologies:** MATLAB, Image Processing, Computer Vision
-- **Applications:** Traffic management, security, access control
-</details>
+An image processing solution for automatic vehicle identification:
 
----
+- **Technologies:** MATLAB, Image Processing, Computer Vision
+- **Challenges:** Addressing non-standardized Indian license plate formats
+- **Applications:** Traffic management, security, access control, vehicle tracking
+- **Innovations:** Developed adaptable algorithms for various plate designs
+</details>
 
 ## 👥 Leadership & Teaching
 
 - **Teaching Assistant** - CIS 569, Visual Analytics (Spring '24)
 - **Grader** - CIS 477, Computer and Information System Security (Fall '23)
 - **Chapter Chair**, MassPIRG (Fall '23)
+- **Campaign Coordinator**, MassPIRG (Spring '23 - Fall '23)
 - **Orientation Leader** (Summer '23)
-
----
 
 ## 📈 GitHub Analytics
 
@@ -104,7 +119,16 @@ My research addresses the challenge of enhancing underwater sonar imagery withou
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChitraSiddharthan&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChitraSiddharthan&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+</div>
+
+## 🌱 Current Learning Journey
+
+- Advanced machine learning techniques for image processing
+- Cloud infrastructure deployment and scalability
+- Data visualization libraries and techniques for complex datasets
+- Enhancing embedded systems programming skills
 
 ## 📫 Connect With Me
 
@@ -112,11 +136,14 @@ My research addresses the challenge of enhancing underwater sonar imagery withou
   
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitra-siddharthan-4b1b9a166/)
 
+**Email:** chitrasiddharthan05@gmail.com
+
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChitraSiddharthan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  
   ⭐️ From [ChitraSiddharthan](https://github.com/ChitraSiddharthan)
 </div>
