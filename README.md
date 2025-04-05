@@ -17,7 +17,7 @@
 I'm a Computer Science professional with both Bachelor's and Master's degrees, specializing in software development and embedded systems. My research focuses on improving resolution of Synthetic Aperture Sonar images using innovative computational methods. I thrive in collaborative environments, excel at problem-solving, and adapt quickly to new technologies.
 
 ```python
-![Python Class GIF](Uploads)
+![Python Class GIF](https://github.com/ChitraSiddharthan/ChitraSiddharthan/blob/090fea136a05545d2dfad5ec9180f0d8d06dba94/Uploads)
 
 ```
 
