@@ -17,7 +17,12 @@
 I'm a Computer Science professional with both Bachelor's and Master's degrees, specializing in software development and embedded systems. My research focuses on improving resolution of Synthetic Aperture Sonar images using innovative computational methods. I thrive in collaborative environments, excel at problem-solving, and adapt quickly to new technologies.
 
 ```python
-class ChitraSiddharthan:
+from manim import *
+
+class PythonClass(Scene):
+    def construct(self):
+        code = Code(
+            code="""class ChitraSiddharthan:
     def __init__(self):
         self.name = "Chitra Siddharthan"
         self.education = ["MSc in Computer Science", "BE in Computer Science and Engineering"]
@@ -25,10 +30,14 @@ class ChitraSiddharthan:
         self.currently_learning = ["Advanced ML", "Cloud Infrastructure", "Advanced Data Viz"]
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        print("Thanks for dropping by! Let's build something amazing together!")""",
+            language="Python",
+            font="Monospace",
+            style="colorful",
+            scale_factor=0.6
+        )
+        self.play(Write(code))
 
-me = ChitraSiddharthan()
-me.say_hi()
 ```
 
 ## 🎓 Education
