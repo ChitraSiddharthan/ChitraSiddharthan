@@ -18,7 +18,6 @@ I'm a Computer Science professional with both Bachelor's and Master's degrees, s
 
 ![Running Python Code GIF](https://github.com/ChitraSiddharthan/ChitraSiddharthan/blob/411a7f41387f468c2a0c9a2685f700742b7667e5/uploads.py)
 
-
 ## 🎓 Education
 
 <div align="center">
