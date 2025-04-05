@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Professional;Software+Engineer;IoT+and+Embedded+Systems+Enthusiast;Data+Visualization+Specialist" alt="Typing SVG" />
 </div>
 
+
 ## 💫 About Me
 
 I'm a Computer Science professional with both Bachelor's and Master's degrees, specializing in software development and embedded systems. My research focuses on improving resolution of Synthetic Aperture Sonar images using innovative computational methods. I thrive in collaborative environments, excel at problem-solving, and adapt quickly to new technologies.
