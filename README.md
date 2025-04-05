@@ -17,7 +17,7 @@
 I'm a Computer Science professional with both Bachelor's and Master's degrees, specializing in software development and embedded systems. My research focuses on improving resolution of Synthetic Aperture Sonar images using innovative computational methods. I thrive in collaborative environments, excel at problem-solving, and adapt quickly to new technologies.
 
 ```python
-![Python Class GIF](https://path_to_your_hosted_gif.gif)
+![Python Class GIF](Uploads)
 
 ```
 
